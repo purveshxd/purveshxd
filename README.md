@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purvesh Dongarwar</h1>
-<h3 align="center">A passionate Mobile App Developer specializing in Flutter & UI/UX</h3>
+<h3 align="center">A passionate Mobile App Developer specializing in Flutter & UI/UX also a 3D Artist by Night 🌃</h3>
 
 <p align="center">
   <a href="https://github.com/purveshxd">
