@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Mobile App Developer specializing in Flutter & UI/UX also a 3D Artist by Night 🌃</h3>
 
 <p align="center">
-  <a href="https://github.com/purveshxd">
+<!--   <a href="https://github.com/purveshxd">
     <img src="https://img.shields.io/github/followers/purveshxd?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  </a> -->
   <a href="https://purveshxd.github.io">
      <img src="https://img.shields.io/badge/Portfolio-Website-blue?" alt="Portfolio Website" />
   </a>
