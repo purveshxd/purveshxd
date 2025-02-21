@@ -5,7 +5,7 @@
 <!--   <a href="https://github.com/purveshxd">
     <img src="https://img.shields.io/github/followers/purveshxd?label=Followers&style=social" alt="GitHub Followers" />
   </a> -->
-  <a href="https://purveshxd.github.io/purveshxd-portfolio-3.0/">
+  <a href="https://purveshxd.github.io">
      <img src="https://img.shields.io/badge/Portfolio-Website-blue?" alt="Portfolio Website" />
   </a>
   <a href="https://linkedin.com/in/purveshxd">
