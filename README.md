@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently an **SDE Flutter Intern** at [Snipe](https://www.snipeit.ai/).  
+<!-- - 🔭 Currently an **SDE Flutter Intern** at [Snipe](https://www.snipeit.ai/).  -->
 - 🎨 **Freelance 3D Artist**, crafting **album covers & music visuals** with Blender 3D & DaVinci Resolve.  
 - 🏆 **Hackathon Winner** at **Smart India Hackathon 2022** & **Hack Fit-2 by MLH**.  
 - 🗣 **Speaker at Perficient Nagpur** – Delivered a talk on **Flutter Local Storage Solutions**.  
