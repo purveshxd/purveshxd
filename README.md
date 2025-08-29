@@ -22,7 +22,6 @@
 <!-- - 🔭 Currently an **SDE Flutter Intern** at [Snipe](https://www.snipeit.ai/).  -->
 - 🎨 **Freelance 3D Artist**, crafting **album covers & music visuals** with Blender 3D & DaVinci Resolve.  
 - 🏆 **Hackathon Winner** at **Smart India Hackathon 2022** & **Hack Fit-2 by MLH**.  
-- 🗣 **Speaker at Perficient Nagpur** – Delivered a talk on **Flutter Local Storage Solutions**.  
 - 💡 Passionate about **Mobile Development, AI/ML, and UI/UX Design**.
 - 👨‍💻 Currently learning iOS Development [#100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui) (Follow my journey on [Twitter](https://www.x.com/xdpurvesh))
 
